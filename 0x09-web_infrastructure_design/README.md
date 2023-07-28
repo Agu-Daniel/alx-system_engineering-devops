@@ -47,4 +47,5 @@ Web Applications Infrastructure/Web Infrastructure also called internet infrastr
 - 3 monitoring clients (data collector for Sumologic or other monitoring services)
 
 ## Author
-### ___[UDO INNOCENT CHARLES](https://github.com/Innocentsax)___
+### ___[AGU DANIEL](https://github.com/Agu-Daniel)___
+### ___[CHINWE OKEKE](https://github.com/chinwejerry)___
