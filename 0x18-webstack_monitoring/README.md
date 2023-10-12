@@ -1,1 +1,1 @@
-# 0x18. Webstack monitoring by Faith
+# 0x18. Webstack monitoring by Daniel
