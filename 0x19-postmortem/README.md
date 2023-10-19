@@ -1,9 +1,9 @@
 # SERVER OUTAGE INCIDENT REPORT
-> By  [UDO INNOCENT CHARLES](https://github.com/Innocentsax)
+> By  [AGU DANIEL](https://github.com/Agu-Daniel)
 
 <img src="https://t3.ftcdn.net/jpg/04/92/09/72/240_F_492097246_yagE8x9Uk8M9IekPy7GBuE0x1Uoa7esD.jpg" width="1000" height="300">
 
-7 August 2023, we experienced server outage on all our server infrastructure which resulted in our clients inability to use our services and we sincerely apologize for the financial loss our clients have incurred during this period.
+7 October 2023, we experienced server outage on all our server infrastructure which resulted in our clients inability to use our services and we sincerely apologize for the financial loss our clients have incurred during this period.
 
 ## Issue Summary
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iVJNbyc1zz2iICgPe8w5S3DoRkt8_5aeIg&usqp=CAU" width="1000" height="300">
